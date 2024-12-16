@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Frontend Development",
+      "slug": "frontend-development",
+      "description": "Focuses on building user interfaces and client-side logic using modern frameworks like React, Angular, and Vue. This category includes topics on React hooks, CSS Flexbox, responsive design, and other client-side technologies."
+    },
+    {
+      "name": "Backend Development",
+      "slug": "backend-development",
+      "description": "Covers server-side programming, including APIs, middleware, authentication, and database interactions with technologies such as Node.js, Express.js, and MongoDB. Topics include Node.js performance tips, Express middleware, and RESTful API design."
+    },
+    {
+      "name": "Database",
+      "slug": "database",
+      "description": "Learn about managing and optimizing databases, including document-based databases like MongoDB, relational databases, and working with data through aggregations, indexing, and query optimization."
+    },
+    {
+      "name": "Security",
+      "slug": "security",
+      "description": "Topics in securing web applications, from authentication strategies using JWT to securing APIs, handling CORS, and protecting against common vulnerabilities like SQL Injection, XSS, and CSRF."
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript",
+      "description": "Dive deep into JavaScript fundamentals, including asynchronous programming, Promises, async/await, and best practices for building scalable applications using JavaScript."
+    },
+    {
+      "name": "Full Stack Development",
+      "slug": "full-stack-development",
+      "description": "Explore topics related to building both the frontend and backend of web applications using technologies like React, Node.js, Express, and MongoDB. This includes deploying full-stack MERN applications and integrating APIs."
+    },
+    {
+      "name": "Deployment & DevOps",
+      "slug": "deployment-devops",
+      "description": "Learn about deploying full-stack applications, continuous integration, and scaling web apps on platforms like AWS, Heroku, or Docker. This includes best practices for deploying MERN applications and managing cloud environments."
+    },
+    {
+      "name": "Mobile Development",
+      "slug": "mobile-development",
+      "description": "Build native and cross-platform mobile applications using technologies like Flutter, React Native, and Swift."
+    },
+    {
+      "name": "Machine Learning",
+      "slug": "machine-learning",
+      "description": "Explore machine learning concepts, algorithms, and frameworks such as TensorFlow, PyTorch, and Scikit-learn."
+    },
+    {
+      "name": "UI/UX Design",
+      "slug": "ui-ux-design",
+      "description": "Focus on user interface design, user experience, prototyping, and tools like Figma, Sketch, and Adobe XD."
+    }
+  ]
+  

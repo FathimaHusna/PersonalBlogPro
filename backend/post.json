@@ -1,0 +1,75 @@
+[
+    {
+      "title": "Getting Started with MERN Stack",
+      "content": "This is a comprehensive guide on building applications using the MERN stack, which includes MongoDB, Express.js, React, and Node.js.",
+      "category": "Web Development",
+      "author": "John Doe",
+      "image": "https://example.com/images/mern-stack-guide.jpg",
+      "createdAt": "2024-06-11T10:00:00.000Z",
+      "updatedAt": "2024-06-11T10:00:00.000Z"
+    },
+    {
+      "title": "Node.js Performance Tips",
+      "content": "Optimizing Node.js applications involves improving memory usage, event loop management, and database queries.",
+      "category": "Backend Development",
+      "author": "Michael Brown",
+      "image": "https://example.com/images/nodejs-performance.jpg",
+      "createdAt": "2024-06-08T14:30:00.000Z",
+      "updatedAt": "2024-06-11T11:15:00.000Z"
+    },
+    {
+      "title": "Exploring MongoDB Aggregation",
+      "content": "The aggregation framework in MongoDB is powerful for data transformation and analysis.",
+      "category": "Database",
+      "author": "Sarah Johnson",
+      "image": "https://example.com/images/mongodb-aggregation.png",
+      "createdAt": "2024-06-09T16:00:00.000Z",
+      "updatedAt": "2024-06-09T16:45:00.000Z"
+    },
+    {
+      "title": "Introduction to Express Middleware",
+      "content": "Middleware functions are central to Express.js and allow you to manipulate requests and responses.",
+      "category": "Backend Development",
+      "author": "Alex Turner",
+      "image": "https://example.com/images/express-middleware.jpg",
+      "createdAt": "2024-06-07T10:10:00.000Z",
+      "updatedAt": "2024-06-07T10:20:00.000Z"
+    },
+    {
+      "title": "How to Deploy MERN Applications",
+      "content": "Learn how to deploy a full-stack MERN app to platforms like Heroku, Vercel, or AWS.",
+      "category": "DevOps",
+      "author": "Emily Clark",
+      "image": "https://example.com/images/deploy-mern.jpg",
+      "createdAt": "2024-06-06T13:00:00.000Z",
+      "updatedAt": "2024-06-10T15:30:00.000Z"
+    },
+    {
+      "title": "Responsive Design with CSS Flexbox",
+      "content": "CSS Flexbox simplifies layout design for responsive web applications.",
+      "category": "UI/UX Design",
+      "author": "Chris Evans",
+      "image": "https://example.com/images/css-flexbox.png",
+      "createdAt": "2024-06-12T08:00:00.000Z",
+      "updatedAt": "2024-06-12T08:30:00.000Z"
+    },
+    {
+      "title": "Asynchronous Programming in JavaScript",
+      "content": "Explore promises, async/await, and best practices for managing asynchronous operations.",
+      "category": "JavaScript",
+      "author": "Daniel Lee",
+      "image": "https://example.com/images/async-js.jpg",
+      "createdAt": "2024-06-05T17:00:00.000Z",
+      "updatedAt": "2024-06-05T17:45:00.000Z"
+    },
+    {
+      "title": "Securing REST APIs with JWT",
+      "content": "JSON Web Tokens (JWT) provide a secure method for authentication in RESTful APIs.",
+      "category": "Security",
+      "author": "Olivia Martin",
+      "image": "https://example.com/images/jwt-auth.png",
+      "createdAt": "2024-06-11T18:00:00.000Z",
+      "updatedAt": "2024-06-11T19:00:00.000Z"
+    }
+  ]
+  
